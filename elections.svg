@@ -1,0 +1,4477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   contentScriptType="text/ecmascript"
+   width="964.04059"
+   zoomAndPan="magnify"
+   contentStyleType="text/css"
+   viewBox="-331 -487 964.04058 867.11053"
+   height="867.11053"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg945"
+   sodipodi:docname="elections.svg"
+   inkscape:version="1.0.1 (1.0.1+r73)"
+   inkscape:export-filename="/home/dmitry/Downloads/elections.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata951">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs949">
+    <rect
+       x="-270.50142"
+       y="294.90167"
+       width="140.24196"
+       height="31.13457"
+       id="rect1048" />
+    <rect
+       x="-319.45503"
+       y="-477.32868"
+       width="501.27584"
+       height="74.723532"
+       id="rect1042" />
+    <rect
+       x="309.49548"
+       y="-39.038105"
+       width="103.80276"
+       height="267.33902"
+       id="rect1024" />
+    <rect
+       x="315.69168"
+       y="-39.122009"
+       width="292.40152"
+       height="423.16565"
+       id="rect955" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1505"
+     inkscape:window-height="995"
+     id="namedview947"
+     showgrid="false"
+     inkscape:zoom="0.91"
+     inkscape:cx="484.2218"
+     inkscape:cy="429.37561"
+     inkscape:window-x="295"
+     inkscape:window-y="51"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg945" />
+  <g
+     id="edges"
+     transform="translate(23.721802,11.37561)">
+    <path
+       fill="none"
+       stroke-width="15"
+       d="m -247.0592,74.177094 18.70256,23.343559"
+       class="id_GW_(1789) id_GW_(1792)"
+       stroke-opacity="0.74902"
+       stroke="#873536"
+       id="path2" />
+    <path
+       fill="none"
+       stroke-width="6.738"
+       d="m -228.35664,97.520653 -0.61843,34.178217"
+       class="id_GW_(1792) id_DR_(1796)"
+       stroke-opacity="0.74902"
+       stroke="#7e609a"
+       id="path4" />
+    <path
+       fill="none"
+       stroke-width="9.492"
+       d="m -228.35664,97.520653 34.40507,13.438167"
+       class="id_GW_(1792) id_F_(1796)"
+       stroke-opacity="0.74902"
+       stroke="#4d9a5b"
+       id="path6" />
+    <path
+       fill="none"
+       stroke-width="7.25437"
+       d="m -228.97507,131.69887 19.78713,17.70649"
+       class="id_DR_(1796) id_DR_(1800)"
+       stroke-opacity="0.74902"
+       stroke="#758bff"
+       id="path8" />
+    <path
+       fill="none"
+       stroke-width="2.09063"
+       d="m -193.95157,110.95882 -15.23637,38.44654"
+       class="id_F_(1796) id_DR_(1800)"
+       stroke-opacity="0.74902"
+       stroke="#44c5bf"
+       id="path10" />
+    <path
+       fill="none"
+       stroke-width="7.25437"
+       d="m -193.95157,110.95882 21.53418,16.00915"
+       class="id_F_(1796) id_F_(1800)"
+       stroke-opacity="0.74902"
+       stroke="#14ff80"
+       id="path12" />
+    <path
+       fill="none"
+       stroke-width="2.09063"
+       d="m -193.95157,110.95882 39.49439,-14.435558"
+       class="id_F_(1796) id_SP_(1800)"
+       stroke-opacity="0.74902"
+       stroke="#60e29d"
+       id="path14" />
+    <path
+       fill="none"
+       stroke-width="8.115"
+       d="m -209.18794,149.40536 31.7195,13.51082"
+       class="id_DR_(1800) id_DR_(1804)"
+       stroke-opacity="0.74902"
+       stroke="#758bff"
+       id="path16" />
+    <path
+       fill="none"
+       stroke-width="5.53312"
+       d="m -172.41739,126.96797 -5.05105,35.94821"
+       class="id_F_(1800) id_DR_(1804)"
+       stroke-opacity="0.74902"
+       stroke="#44c5bf"
+       id="path18" />
+    <path
+       fill="none"
+       stroke-width="2.95125"
+       d="m -172.41739,126.96797 42.91583,13.41327"
+       class="id_F_(1800) id_F_(1804)"
+       stroke-opacity="0.74902"
+       stroke="#14ff80"
+       id="path20" />
+    <path
+       fill="none"
+       stroke-width="2.09063"
+       d="m -154.45718,96.523262 -23.01126,66.392918"
+       class="id_SP_(1800) id_DR_(1804)"
+       stroke-opacity="0.74902"
+       stroke="#90a8dd"
+       id="path22" />
+    <path
+       fill="none"
+       stroke-width="10.95"
+       d="m -177.46844,162.91618 9.05543,31.22219"
+       class="id_DR_(1804) id_DR_(1808)"
+       stroke-opacity="0.74902"
+       stroke="#758bff"
+       id="path24" />
+    <path
+       fill="none"
+       stroke-width="3.66"
+       d="m -177.46844,162.91618 51.53385,13.73392"
+       class="id_DR_(1804) id_F_(1808)"
+       stroke-opacity="0.74902"
+       stroke="#44c5bf"
+       id="path26" />
+    <path
+       fill="none"
+       stroke-width="2.85"
+       d="m -129.50156,140.38124 3.56697,36.26886"
+       class="id_F_(1804) id_F_(1808)"
+       stroke-opacity="0.74902"
+       stroke="#14ff80"
+       id="path28" />
+    <path
+       fill="none"
+       stroke-width="9.33"
+       d="m -168.41301,194.13837 17.36249,34.08859"
+       class="id_DR_(1808) id_DR_(1812)"
+       stroke-opacity="0.74902"
+       stroke="#758bff"
+       id="path30" />
+    <path
+       fill="none"
+       stroke-width="2.85"
+       d="m -168.41301,194.13837 53.4462,13.5399"
+       class="id_DR_(1808) id_F_(1812)"
+       stroke-opacity="0.74902"
+       stroke="#44c5bf"
+       id="path32" />
+    <path
+       fill="none"
+       stroke-width="5.28"
+       d="m -125.93459,176.6501 10.96778,31.02817"
+       class="id_F_(1808) id_F_(1812)"
+       stroke-opacity="0.74902"
+       stroke="#14ff80"
+       id="path34" />
+    <path
+       fill="none"
+       stroke-width="9.645"
+       d="m -151.05052,228.22696 28.14873,13.43672"
+       class="id_DR_(1812) id_DR_(1816)"
+       stroke-opacity="0.74902"
+       stroke="#758bff"
+       id="path36" />
+    <path
+       fill="none"
+       stroke-width="4.29"
+       d="m -114.96681,207.67827 -7.93498,33.98541"
+       class="id_F_(1812) id_DR_(1816)"
+       stroke-opacity="0.74902"
+       stroke="#44c5bf"
+       id="path38" />
+    <path
+       fill="none"
+       stroke-width="3.525"
+       d="m -114.96681,207.67827 25.516599,13.82133"
+       class="id_F_(1812) id_F_(1816)"
+       stroke-opacity="0.74902"
+       stroke="#14ff80"
+       id="path40" />
+    <path
+       fill="none"
+       stroke-width="12.8258"
+       d="m -122.90179,241.66368 27.194202,22.22917"
+       class="id_DR_(1816) id_DR_(1820)"
+       stroke-opacity="0.74902"
+       stroke="#758bff"
+       id="path42" />
+    <path
+       fill="none"
+       stroke-width="3.40421"
+       d="m -89.450211,221.4996 -6.257377,42.39325"
+       class="id_F_(1816) id_DR_(1820)"
+       stroke-opacity="0.74902"
+       stroke="#44c5bf"
+       id="path44" />
+    <path
+       fill="none"
+       stroke-width="15"
+       d="m -95.707588,263.89285 32.989597,18.48935"
+       class="id_DR_(1820) id_DR_(1824)"
+       stroke-opacity="0.74902"
+       stroke="#758bff"
+       id="path46" />
+    <path
+       fill="none"
+       stroke-width="9.83625"
+       d="m -62.717991,282.3822 31.324759,15.0921"
+       class="id_DR_(1824) id_D_(1828)"
+       stroke-opacity="0.74902"
+       stroke="#6daeff"
+       id="path48" />
+    <path
+       fill="none"
+       stroke-width="6.39375"
+       d="m -62.717991,282.3822 28.456108,-31.21431"
+       class="id_DR_(1824) id_NR_(1828)"
+       stroke-opacity="0.74902"
+       stroke="#b87dff"
+       id="path50" />
+    <path
+       fill="none"
+       stroke-width="8.68875"
+       d="M -31.393232,297.4743 9.974796,310.8894"
+       class="id_D_(1828) id_D_(1832)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path52" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="M -31.393232,297.4743 20.135826,236.61661"
+       class="id_D_(1828) id_N_(1832)"
+       stroke-opacity="0.74902"
+       stroke="#63927f"
+       id="path54" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="M -31.393232,297.4743 -0.569397,264.83203"
+       class="id_D_(1828) id_NR_(1832)"
+       stroke-opacity="0.74902"
+       stroke="#b1a0ff"
+       id="path56" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="m -34.261883,251.16789 22.502576,-28.06456"
+       class="id_NR_(1828) id_AM_(1832)"
+       stroke-opacity="0.74902"
+       stroke="#fd63bb"
+       id="path58" />
+    <path
+       fill="none"
+       stroke-width="2.95125"
+       d="M -34.261883,251.16789 9.974796,310.8894"
+       class="id_NR_(1828) id_D_(1832)"
+       stroke-opacity="0.74902"
+       stroke="#b1a0ff"
+       id="path60" />
+    <path
+       fill="none"
+       stroke-width="4.09875"
+       d="m -34.261883,251.16789 33.692486,13.66414"
+       class="id_NR_(1828) id_NR_(1832)"
+       stroke-opacity="0.74902"
+       stroke="#fc70ff"
+       id="path62" />
+    <path
+       fill="none"
+       stroke-width="7.54125"
+       d="m 9.974796,310.8894 47.049916,13.5521"
+       class="id_D_(1832) id_D_(1836)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path64" />
+    <path
+       fill="none"
+       stroke-width="4.09875"
+       d="M 9.974796,310.8894 45.017727,278.29575"
+       class="id_D_(1832) id_W_(1836)"
+       stroke-opacity="0.74902"
+       stroke="#abc97f"
+       id="path66" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="m 20.135826,236.61661 24.881901,41.67914"
+       class="id_N_(1832) id_W_(1836)"
+       stroke-opacity="0.74902"
+       stroke="#a88b00"
+       id="path68" />
+    <path
+       fill="none"
+       stroke-width="2.3775"
+       d="M -0.569397,264.83203 57.024712,324.4415"
+       class="id_NR_(1832) id_D_(1836)"
+       stroke-opacity="0.74902"
+       stroke="#b1a0ff"
+       id="path70" />
+    <path
+       fill="none"
+       stroke-width="3.525"
+       d="m -0.569397,264.83203 45.587124,13.46372"
+       class="id_NR_(1832) id_W_(1836)"
+       stroke-opacity="0.74902"
+       stroke="#f6997f"
+       id="path72" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="m -11.759307,223.10333 56.777034,55.19242"
+       class="id_AM_(1832) id_W_(1836)"
+       stroke-opacity="0.74902"
+       stroke="#f78c3b"
+       id="path74" />
+    <path
+       fill="none"
+       stroke-width="1.75962"
+       d="m 45.017727,278.29575 62.035593,57.78366"
+       class="id_W_(1836) id_D_(1840)"
+       stroke-opacity="0.74902"
+       stroke="#abc97f"
+       id="path76" />
+    <path
+       fill="none"
+       stroke-width="6.52615"
+       d="m 45.017727,278.29575 39.035503,13.5783"
+       class="id_W_(1836) id_W_(1840)"
+       stroke-opacity="0.74902"
+       stroke="#f0c200"
+       id="path78" />
+    <path
+       fill="none"
+       stroke-width="4.40769"
+       d="m 57.024712,324.4415 50.028608,11.63791"
+       class="id_D_(1836) id_D_(1840)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path80" />
+    <path
+       fill="none"
+       stroke-width="5.99654"
+       d="M 57.024712,324.4415 84.05323,291.87405"
+       class="id_D_(1836) id_W_(1840)"
+       stroke-opacity="0.74902"
+       stroke="#abc97f"
+       id="path82" />
+    <path
+       fill="none"
+       stroke-width="4.93731"
+       d="m 107.05332,336.07941 29.10191,-32.00296"
+       class="id_D_(1840) id_D_(1844)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path84" />
+    <path
+       fill="none"
+       stroke-width="5.46692"
+       d="m 84.05323,291.87405 52.102,12.2024"
+       class="id_W_(1840) id_D_(1844)"
+       stroke-opacity="0.74902"
+       stroke="#abc97f"
+       id="path86" />
+    <path
+       fill="none"
+       stroke-width="7.05577"
+       d="M 84.05323,291.87405 97.053734,255.96008"
+       class="id_W_(1840) id_W_(1844)"
+       stroke-opacity="0.74902"
+       stroke="#f0c200"
+       id="path88" />
+    <path
+       fill="none"
+       stroke-width="7.05577"
+       d="m 136.15523,304.07645 18.57084,-37.10224"
+       class="id_D_(1844) id_D_(1848)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path90" />
+    <path
+       fill="none"
+       stroke-width="3.34846"
+       d="M 136.15523,304.07645 126.09692,238.56909"
+       class="id_D_(1844) id_W_(1848)"
+       stroke-opacity="0.74902"
+       stroke="#abc97f"
+       id="path92" />
+    <path
+       fill="none"
+       stroke-width="1.75962"
+       d="m 97.053734,255.96008 57.672336,11.01413"
+       class="id_W_(1844) id_D_(1848)"
+       stroke-opacity="0.74902"
+       stroke="#abc97f"
+       id="path94" />
+    <path
+       fill="none"
+       stroke-width="6.52615"
+       d="M 97.053734,255.96008 126.09692,238.56909"
+       class="id_W_(1844) id_W_(1848)"
+       stroke-opacity="0.74902"
+       stroke="#f0c200"
+       id="path96" />
+    <path
+       fill="none"
+       stroke-width="8.115"
+       d="m 154.72607,266.97421 14.60971,-41.8459"
+       class="id_D_(1848) id_D_(1852)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path98" />
+    <path
+       fill="none"
+       stroke-width="6.279"
+       d="m 126.09692,238.56909 43.23886,-13.44078"
+       class="id_W_(1848) id_D_(1852)"
+       stroke-opacity="0.74902"
+       stroke="#abc97f"
+       id="path100" />
+    <path
+       fill="none"
+       stroke-width="3.066"
+       d="m 126.09692,238.56909 0.16495,-40.27615"
+       class="id_W_(1848) id_W_(1852)"
+       stroke-opacity="0.74902"
+       stroke="#f0c200"
+       id="path102" />
+    <path
+       fill="none"
+       stroke-width="8.78129"
+       d="m 169.33578,225.12831 28.30854,-32.88794"
+       class="id_D_(1852) id_D_(1856)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path104" />
+    <path
+       fill="none"
+       stroke-width="1.67419"
+       d="m 169.33578,225.12831 60.21695,22.40651"
+       class="id_D_(1852) id_KN_(1856)"
+       stroke-opacity="0.74902"
+       stroke="#b0b8ac"
+       id="path106" />
+    <path
+       fill="none"
+       stroke-width="5.22774"
+       d="M 169.33578,225.12831 154.88425,178.49834"
+       class="id_D_(1852) id_R_(1856)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path108" />
+    <path
+       fill="none"
+       stroke-width="2.11839"
+       d="m 126.26187,198.29294 71.38245,-6.05257"
+       class="id_W_(1852) id_D_(1856)"
+       stroke-opacity="0.74902"
+       stroke="#abc97f"
+       id="path110" />
+    <path
+       fill="none"
+       stroke-width="2.11839"
+       d="m 126.26187,198.29294 28.62238,-19.7946"
+       class="id_W_(1852) id_R_(1856)"
+       stroke-opacity="0.74902"
+       stroke="#f7963a"
+       id="path112" />
+    <path
+       fill="none"
+       stroke-width="2.56258"
+       d="m 197.64432,192.24037 23.7091,-59.18138"
+       class="id_D_(1856) id_CU_(1860)"
+       stroke-opacity="0.74902"
+       stroke="#76c5a7"
+       id="path114" />
+    <path
+       fill="none"
+       stroke-width="1.67419"
+       d="M 197.64432,192.24037 126.26924,134.13098"
+       class="id_D_(1856) id_ND_(1860)"
+       stroke-opacity="0.74902"
+       stroke="#4cb4ff"
+       id="path116" />
+    <path
+       fill="none"
+       stroke-width="3.45097"
+       d="M 197.64432,192.24037 174.94565,147.8988"
+       class="id_D_(1856) id_R_(1860)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path118" />
+    <path
+       fill="none"
+       stroke-width="5.67194"
+       d="m 197.64432,192.24037 31.89395,-22.60995"
+       class="id_D_(1856) id_SD_(1860)"
+       stroke-opacity="0.74902"
+       stroke="#33cee1"
+       id="path120" />
+    <path
+       fill="none"
+       stroke-width="1.67419"
+       d="m 229.55273,247.53482 -0.0145,-77.9044"
+       class="id_KN_(1856) id_SD_(1860)"
+       stroke-opacity="0.74902"
+       stroke="#7db58e"
+       id="path122" />
+    <path
+       fill="none"
+       stroke-width="6.11613"
+       d="m 154.88425,178.49834 20.0614,-30.59954"
+       class="id_R_(1856) id_R_(1860)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path124" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="M 221.35342,133.05899 219.05423,91.169434"
+       class="id_CU_(1860) id_D_(1864)"
+       stroke-opacity="0.74902"
+       stroke="#76c5a7"
+       id="path126" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="M 221.35342,133.05899 171.09106,105.84168"
+       class="id_CU_(1860) id_R_(1864)"
+       stroke-opacity="0.74902"
+       stroke="#c39261"
+       id="path128" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="m 126.26924,134.13098 44.82182,-28.2893"
+       class="id_ND_(1860) id_R_(1864)"
+       stroke-opacity="0.74902"
+       stroke="#9981b9"
+       id="path130" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="M 174.94565,147.8988 219.05423,91.169434"
+       class="id_R_(1860) id_D_(1864)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path132" />
+    <path
+       fill="none"
+       stroke-width="10.9837"
+       d="m 174.94565,147.8988 -3.85459,-42.05712"
+       class="id_R_(1860) id_R_(1864)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path134" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="M 229.53827,169.63042 219.05423,91.169434"
+       class="id_SD_(1860) id_D_(1864)"
+       stroke-opacity="0.74902"
+       stroke="#33cee1"
+       id="path136" />
+    <path
+       fill="none"
+       stroke-width="2.3775"
+       d="M 229.53827,169.63042 171.09106,105.84168"
+       class="id_SD_(1860) id_R_(1864)"
+       stroke-opacity="0.74902"
+       stroke="#7f9b9b"
+       id="path138" />
+    <path
+       fill="none"
+       stroke-width="2.76"
+       d="M 219.05423,91.169434 173.08403,53.436661"
+       class="id_D_(1864) id_D_(1868)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path140" />
+    <path
+       fill="none"
+       stroke-width="3.27"
+       d="m 171.09106,105.84168 1.99297,-52.405019"
+       class="id_R_(1864) id_D_(1868)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path142" />
+    <path
+       fill="none"
+       stroke-width="11.43"
+       d="M 171.09106,105.84168 139.90471,83.24958"
+       class="id_R_(1864) id_R_(1868)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path144" />
+    <path
+       fill="none"
+       stroke-width="2.445"
+       d="M 173.08403,53.436661 150.21544,16.732042"
+       class="id_D_(1868) id_LR_(1872)"
+       stroke-opacity="0.74902"
+       stroke="#6b8dc0"
+       id="path146" />
+    <path
+       fill="none"
+       stroke-width="3.255"
+       d="M 173.08403,53.436661 119.96487,47.502388"
+       class="id_D_(1868) id_R_(1872)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path148" />
+    <path
+       fill="none"
+       stroke-width="2.04"
+       d="M 139.90471,83.24958 150.21544,16.732042"
+       class="id_R_(1868) id_LR_(1872)"
+       stroke-opacity="0.74902"
+       stroke="#b75a7b"
+       id="path150" />
+    <path
+       fill="none"
+       stroke-width="10.95"
+       d="M 139.90471,83.24958 119.96487,47.502388"
+       class="id_R_(1868) id_R_(1872)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path152" />
+    <path
+       fill="none"
+       stroke-width="3.46297"
+       d="M 150.21544,16.732042 103.60757,3.234233"
+       class="id_LR_(1872) id_D_(1876)"
+       stroke-opacity="0.74902"
+       stroke="#6b8dc0"
+       id="path154" />
+    <path
+       fill="none"
+       stroke-width="5.32378"
+       d="M 119.96487,47.502388 103.60757,3.234233"
+       class="id_R_(1872) id_D_(1876)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path156" />
+    <path
+       fill="none"
+       stroke-width="8.67324"
+       d="M 119.96487,47.502388 70.456215,34.01424"
+       class="id_R_(1872) id_R_(1876)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path158" />
+    <path
+       fill="none"
+       stroke-width="6.30316"
+       d="M 103.60757,3.234233 63.940269,-10.303591"
+       class="id_D_(1876) id_D_(1880)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path160" />
+    <path
+       fill="none"
+       stroke-width="2.31711"
+       d="M 103.60757,3.234233 38.797596,18.898148"
+       class="id_D_(1876) id_R_(1880)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path162" />
+    <path
+       fill="none"
+       stroke-width="3.04184"
+       d="M 70.456215,34.01424 63.940269,-10.303591"
+       class="id_R_(1876) id_D_(1880)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path164" />
+    <path
+       fill="none"
+       stroke-width="7.02789"
+       d="M 70.456215,34.01424 38.797596,18.898148"
+       class="id_R_(1876) id_R_(1880)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path166" />
+    <path
+       fill="none"
+       stroke-width="7.39026"
+       d="M 63.940269,-10.303591 22.343266,-24.008738"
+       class="id_D_(1880) id_D_(1884)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path168" />
+    <path
+       fill="none"
+       stroke-width="1.95474"
+       d="M 63.940269,-10.303591 -3.126446,38.116894"
+       class="id_D_(1880) id_R_(1884)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path170" />
+    <path
+       fill="none"
+       stroke-width="2.31711"
+       d="M 38.797596,18.898148 22.343266,-24.008738"
+       class="id_R_(1880) id_D_(1884)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path172" />
+    <path
+       fill="none"
+       stroke-width="7.02789"
+       d="M 38.797596,18.898148 -3.126446,38.116894"
+       class="id_R_(1880) id_R_(1884)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path174" />
+    <path
+       fill="none"
+       stroke-width="7.75263"
+       d="M 22.343266,-24.008738 5.77374,-54.18372"
+       class="id_D_(1884) id_D_(1888)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path176" />
+    <path
+       fill="none"
+       stroke-width="1.95474"
+       d="M 22.343266,-24.008738 -14.350049,5.554836"
+       class="id_D_(1884) id_R_(1888)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path178" />
+    <path
+       fill="none"
+       stroke-width="7.75263"
+       d="M -3.126446,38.116894 -14.350049,5.554836"
+       class="id_R_(1884) id_R_(1888)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path180" />
+    <path
+       fill="none"
+       stroke-width="7.75263"
+       d="m 5.77374,-54.18372 -42.488767,16.431092"
+       class="id_D_(1888) id_D_(1892)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path182" />
+    <path
+       fill="none"
+       stroke-width="3.04184"
+       d="M -14.350049,5.554836 -36.715027,-37.752628"
+       class="id_R_(1888) id_D_(1892)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path184" />
+    <path
+       fill="none"
+       stroke-width="2.31711"
+       d="m -14.350049,5.554836 -46.6659,18.020737"
+       class="id_R_(1888) id_PO_(1892)"
+       stroke-opacity="0.74902"
+       stroke="#7fa8b9"
+       id="path186" />
+    <path
+       fill="none"
+       stroke-width="5.57842"
+       d="M -14.350049,5.554836 -56.201515,-7.857308"
+       class="id_R_(1888) id_R_(1892)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path188" />
+    <path
+       fill="none"
+       stroke-width="4.98545"
+       d="m -36.715027,-37.752628 -66.998803,16.202387"
+       class="id_D_(1892) id_D_(1896)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path190" />
+    <path
+       fill="none"
+       stroke-width="4.6725"
+       d="M -36.715027,-37.752628 -70.386032,-53.484737"
+       class="id_D_(1892) id_R_(1896)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path192" />
+    <path
+       fill="none"
+       stroke-width="2.48182"
+       d="M -61.015949,23.575573 -103.71383,-21.550241"
+       class="id_PO_(1892) id_D_(1896)"
+       stroke-opacity="0.74902"
+       stroke="#33dbff"
+       id="path194" />
+    <path
+       fill="none"
+       stroke-width="2.79477"
+       d="M -56.201515,-7.857308 -103.71383,-21.550241"
+       class="id_R_(1892) id_D_(1896)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path196" />
+    <path
+       fill="none"
+       stroke-width="4.6725"
+       d="M -56.201515,-7.857308 -70.386032,-53.484737"
+       class="id_R_(1892) id_R_(1896)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path198" />
+    <path
+       fill="none"
+       stroke-width="6.126"
+       d="m -103.71383,-21.550241 -49.8529,-8.58597"
+       class="id_D_(1896) id_D_(1900)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path200" />
+    <path
+       fill="none"
+       stroke-width="3.066"
+       d="m -103.71383,-21.550241 -15.0656,-45.497458"
+       class="id_D_(1896) id_R_(1900)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path202" />
+    <path
+       fill="none"
+       stroke-width="1.54295"
+       d="M -70.386032,-53.484737 0.359922,-88.849594"
+       class="id_R_(1896) id_SP_(1892)"
+       stroke-opacity="0.74902"
+       stroke="#d59897"
+       id="path204" />
+    <path
+       fill="none"
+       stroke-width="1.536"
+       d="m -70.386032,-53.484737 -83.180698,23.348526"
+       class="id_R_(1896) id_D_(1900)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path206" />
+    <path
+       fill="none"
+       stroke-width="7.962"
+       d="M -70.386032,-53.484737 -118.77943,-67.047699"
+       class="id_R_(1896) id_R_(1900)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path208" />
+    <path
+       fill="none"
+       stroke-width="4.902"
+       d="M -153.56673,-30.136211 -194.98439,-43.65554"
+       class="id_D_(1900) id_D_(1904)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path210" />
+    <path
+       fill="none"
+       stroke-width="2.76"
+       d="M -153.56673,-30.136211 -166.11192,-80.65461"
+       class="id_D_(1900) id_R_(1904)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path212" />
+    <path
+       fill="none"
+       stroke-width="1.536"
+       d="m -118.77943,-67.047699 -76.20496,23.392159"
+       class="id_R_(1900) id_D_(1904)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path214" />
+    <path
+       fill="none"
+       stroke-width="9.492"
+       d="M -118.77943,-67.047699 -166.11192,-80.65461"
+       class="id_R_(1900) id_R_(1904)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path216" />
+    <path
+       fill="none"
+       stroke-width="5.208"
+       d="M -194.98439,-43.65554 -216.28018,-74.5299"
+       class="id_D_(1904) id_D_(1908)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path218" />
+    <path
+       fill="none"
+       stroke-width="2.148"
+       d="m -166.11192,-80.65461 -50.16826,6.12471"
+       class="id_R_(1904) id_D_(1908)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path220" />
+    <path
+       fill="none"
+       stroke-width="10.104"
+       d="m -166.11192,-80.65461 -11.97064,-40.62209"
+       class="id_R_(1904) id_R_(1908)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path222" />
+    <path
+       fill="none"
+       stroke-width="6.31891"
+       d="m -216.28018,-74.5299 -11.68137,-52.40672"
+       class="id_D_(1908) id_D_(1912)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path224" />
+    <path
+       fill="none"
+       stroke-width="3.02609"
+       d="m -178.08256,-121.2767 -5.64425,-38.78073"
+       class="id_R_(1908) id_BM_(1912)"
+       stroke-opacity="0.74902"
+       stroke="#7f708a"
+       id="path226" />
+    <path
+       fill="none"
+       stroke-width="7.5163"
+       d="m -178.08256,-121.2767 -49.87899,-5.65992"
+       class="id_R_(1908) id_D_(1912)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path228" />
+    <path
+       fill="none"
+       stroke-width="1.8287"
+       d="m -178.08256,-121.2767 40.73405,-25.13617"
+       class="id_R_(1908) id_R_(1912)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path230" />
+    <path
+       fill="none"
+       stroke-width="8.97563"
+       d="m -227.96155,-126.93662 8.47727,-48.0155"
+       class="id_D_(1912) id_D_(1916)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path232" />
+    <path
+       fill="none"
+       stroke-width="4.95938"
+       d="m -227.96155,-126.93662 -34.10641,-32.91372"
+       class="id_D_(1912) id_R_(1916)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path234" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="m -183.72681,-160.05743 -35.75747,-14.89469"
+       class="id_BM_(1912) id_D_(1916)"
+       stroke-opacity="0.74902"
+       stroke="#33a3cf"
+       id="path236" />
+    <path
+       fill="none"
+       stroke-width="2.3775"
+       d="m -183.72681,-160.05743 -78.34115,0.20709"
+       class="id_BM_(1912) id_R_(1916)"
+       stroke-opacity="0.74902"
+       stroke="#7f708a"
+       id="path238" />
+    <path
+       fill="none"
+       stroke-width="1.51688"
+       d="m -137.34851,-146.41287 -82.13577,-28.53925"
+       class="id_R_(1912) id_D_(1916)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path240" />
+    <path
+       fill="none"
+       stroke-width="1.51688"
+       d="m -137.34851,-146.41287 -124.71945,-13.43747"
+       class="id_R_(1912) id_R_(1916)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path242" />
+    <path
+       fill="none"
+       stroke-width="4.38562"
+       d="m -219.48428,-174.95212 25.02781,-35.64865"
+       class="id_D_(1916) id_D_(1920)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path244" />
+    <path
+       fill="none"
+       stroke-width="6.68062"
+       d="m -219.48428,-174.95212 -38.5206,-33.96797"
+       class="id_D_(1916) id_R_(1920)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path246" />
+    <path
+       fill="none"
+       stroke-width="6.39375"
+       d="m -262.06796,-159.85034 4.06308,-49.06975"
+       class="id_R_(1916) id_R_(1920)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path248" />
+    <path
+       fill="none"
+       stroke-width="4.09875"
+       d="m -194.45647,-210.60077 -3.01573,-36.35756"
+       class="id_D_(1920) id_D_(1924)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path250" />
+    <path
+       fill="none"
+       stroke-width="1.51688"
+       d="m -194.45647,-210.60077 -53.23074,-47.00815"
+       class="id_D_(1920) id_R_(1924)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path252" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="m -258.00488,-208.92009 60.53268,-38.03824"
+       class="id_R_(1920) id_D_(1924)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path254" />
+    <path
+       fill="none"
+       stroke-width="1.51688"
+       d="m -258.00488,-208.92009 -62.08567,3.79498"
+       class="id_R_(1920) id_PR_(1924)"
+       stroke-opacity="0.74902"
+       stroke="#f1b57f"
+       id="path256" />
+    <path
+       fill="none"
+       stroke-width="10.9837"
+       d="m -258.00488,-208.92009 10.31767,-48.68883"
+       class="id_R_(1920) id_R_(1924)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path258" />
+    <path
+       fill="none"
+       stroke-width="2.95125"
+       d="m -197.4722,-246.95833 21.46758,-28.24745"
+       class="id_D_(1924) id_D_(1928)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path260" />
+    <path
+       fill="none"
+       stroke-width="2.95125"
+       d="m -197.4722,-246.95833 -18.80974,-50.22597"
+       class="id_D_(1924) id_R_(1928)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path262" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="m -247.68721,-257.60892 71.68259,-17.59686"
+       class="id_R_(1924) id_D_(1928)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path264" />
+    <path
+       fill="none"
+       stroke-width="10.6969"
+       d="m -247.68721,-257.60892 31.40527,-39.57538"
+       class="id_R_(1924) id_R_(1928)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path266" />
+    <path
+       fill="none"
+       stroke-width="1.51688"
+       d="m -320.09055,-205.12511 103.80861,-92.05919"
+       class="id_PR_(1924) id_R_(1928)"
+       stroke-opacity="0.74902"
+       stroke="#f1b57f"
+       id="path268" />
+    <path
+       fill="none"
+       stroke-width="3.525"
+       d="m -176.00462,-275.20578 3.56907,-49.40799"
+       class="id_D_(1928) id_D_(1932)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path270" />
+    <path
+       fill="none"
+       stroke-width="10.9837"
+       d="m -216.28194,-297.1843 43.84639,-27.42947"
+       class="id_R_(1928) id_D_(1932)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path272" />
+    <path
+       fill="none"
+       stroke-width="2.95125"
+       d="m -216.28194,-297.1843 74.95253,8.44339"
+       class="id_R_(1928) id_R_(1932)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path274" />
+    <path
+       fill="none"
+       stroke-width="13.2788"
+       d="m -172.43555,-324.61377 51.16361,-11.4285"
+       class="id_D_(1932) id_D_(1936)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path276" />
+    <path
+       fill="none"
+       stroke-width="2.3775"
+       d="m -141.32941,-288.74091 20.05747,-47.30136"
+       class="id_R_(1932) id_D_(1936)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path278" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="m -141.32941,-288.74091 38.08679,28.08503"
+       class="id_R_(1932) id_R_(1936)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path280" />
+    <path
+       fill="none"
+       stroke-width="12.1313"
+       d="m -121.27194,-336.04227 45.37338,-21.54641"
+       class="id_D_(1936) id_D_(1940)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path282" />
+    <path
+       fill="none"
+       stroke-width="3.525"
+       d="m -121.27194,-336.04227 45.013227,31.75745"
+       class="id_D_(1936) id_R_(1940)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path284" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="m -103.24262,-260.65588 26.983907,-43.62894"
+       class="id_R_(1936) id_R_(1940)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path286" />
+    <path
+       fill="none"
+       stroke-width="11.2706"
+       d="m -75.89856,-357.58868 50.198967,-6.14862"
+       class="id_D_(1940) id_D_(1944)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path288" />
+    <path
+       fill="none"
+       stroke-width="2.09063"
+       d="m -75.89856,-357.58868 43.012856,39.82437"
+       class="id_D_(1940) id_R_(1944)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path290" />
+    <path
+       fill="none"
+       stroke-width="1.51688"
+       d="m -76.258713,-304.28482 50.55912,-59.45248"
+       class="id_R_(1940) id_D_(1944)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path292" />
+    <path
+       fill="none"
+       stroke-width="3.81188"
+       d="m -76.258713,-304.28482 43.373009,-13.47949"
+       class="id_R_(1940) id_R_(1944)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path294" />
+    <path
+       fill="none"
+       stroke-width="7.82812"
+       d="m -25.699593,-363.7373 40.272909,27.11651"
+       class="id_D_(1944) id_D_(1948)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path296" />
+    <path
+       fill="none"
+       stroke-width="3.81188"
+       d="m -25.699593,-363.7373 40.628679,-16.87766"
+       class="id_D_(1944) id_R_(1948)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path298" />
+    <path
+       fill="none"
+       stroke-width="2.3775"
+       d="m -25.699593,-363.7373 26.102462,73.1936"
+       class="id_D_(1944) id_SR_(1948)"
+       stroke-opacity="0.74902"
+       stroke="#59e0ff"
+       id="path300" />
+    <path
+       fill="none"
+       stroke-width="2.66438"
+       d="m -32.885704,-317.76431 47.45902,-18.85648"
+       class="id_R_(1944) id_D_(1948)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path302" />
+    <path
+       fill="none"
+       stroke-width="3.23812"
+       d="m -32.885704,-317.76431 47.81479,-62.85065"
+       class="id_R_(1944) id_R_(1948)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path304" />
+    <path
+       fill="none"
+       stroke-width="2.66438"
+       d="m 14.573316,-336.62079 40.293021,34.28723"
+       class="id_D_(1948) id_D_(1952)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path306" />
+    <path
+       fill="none"
+       stroke-width="7.82812"
+       d="M 14.573316,-336.62079 55.96759,-361.9632"
+       class="id_D_(1948) id_R_(1952)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path308" />
+    <path
+       fill="none"
+       stroke-width="5.82"
+       d="M 14.929086,-380.61496 55.96759,-361.9632"
+       class="id_R_(1948) id_R_(1952)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path310" />
+    <path
+       fill="none"
+       stroke-width="2.3775"
+       d="m 0.402869,-290.5437 54.463468,-11.78986"
+       class="id_SR_(1948) id_D_(1952)"
+       stroke-opacity="0.74902"
+       stroke="#59e0ff"
+       id="path312" />
+    <path
+       fill="none"
+       stroke-width="2.95125"
+       d="M 54.866337,-302.33356 92.11451,-283.4498"
+       class="id_D_(1952) id_D_(1956)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path314" />
+    <path
+       fill="none"
+       stroke-width="2.09063"
+       d="m 54.866337,-302.33356 51.172413,-48.90762"
+       class="id_D_(1952) id_R_(1956)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path316" />
+    <path
+       fill="none"
+       stroke-width="1.51688"
+       d="m 55.96759,-361.9632 36.14692,78.5134"
+       class="id_R_(1952) id_D_(1956)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path318" />
+    <path
+       fill="none"
+       stroke-width="12.1313"
+       d="m 55.96759,-361.9632 50.07116,10.72202"
+       class="id_R_(1952) id_R_(1956)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path320" />
+    <path
+       fill="none"
+       stroke-width="2.66438"
+       d="m 92.11451,-283.4498 48.24747,-32.21838"
+       class="id_D_(1956) id_D_(1960)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path322" />
+    <path
+       fill="none"
+       stroke-width="1.80375"
+       d="m 92.11451,-283.4498 20.84813,48.26904"
+       class="id_D_(1956) id_I_(1960)"
+       stroke-opacity="0.74902"
+       stroke="#38d37f"
+       id="path324" />
+    <path
+       fill="none"
+       stroke-width="5.82"
+       d="m 106.03875,-351.24118 34.32323,35.573"
+       class="id_R_(1956) id_D_(1960)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path326" />
+    <path
+       fill="none"
+       stroke-width="8.40187"
+       d="m 106.03875,-351.24118 44.03648,-16.19806"
+       class="id_R_(1956) id_R_(1960)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path328" />
+    <path
+       fill="none"
+       stroke-width="6.4626"
+       d="m 140.36198,-315.66818 47.23963,-20.60297"
+       class="id_D_(1960) id_D_(1964)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path330" />
+    <path
+       fill="none"
+       stroke-width="2.0562"
+       d="m 140.36198,-315.66818 27.87467,55.54004"
+       class="id_D_(1960) id_R_(1964)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path332" />
+    <path
+       fill="none"
+       stroke-width="1.7808"
+       d="m 112.96264,-235.18076 55.27401,-24.94738"
+       class="id_I_(1960) id_R_(1964)"
+       stroke-opacity="0.74902"
+       stroke="#85a03a"
+       id="path334" />
+    <path
+       fill="none"
+       stroke-width="8.115"
+       d="m 150.07523,-367.43924 37.52638,31.16809"
+       class="id_R_(1960) id_D_(1964)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path336" />
+    <path
+       fill="none"
+       stroke-width="1.5054"
+       d="m 150.07523,-367.43924 18.16142,107.3111"
+       class="id_R_(1960) id_R_(1964)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path338" />
+    <path
+       fill="none"
+       stroke-width="1.5"
+       d="m 187.60161,-336.27115 32.80977,69.76898"
+       class="id_D_(1964) id_AI_(1968)"
+       stroke-opacity="0.74902"
+       stroke="#41ba7f"
+       id="path340" />
+    <path
+       fill="none"
+       stroke-width="5.01"
+       d="m 187.60161,-336.27115 43.3625,-23.41922"
+       class="id_D_(1964) id_D_(1968)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path342" />
+    <path
+       fill="none"
+       stroke-width="9.33"
+       d="m 187.60161,-336.27115 41.4042,28.13574"
+       class="id_D_(1964) id_R_(1968)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path344" />
+    <path
+       fill="none"
+       stroke-width="2.31"
+       d="m 168.23665,-260.12814 52.17473,-6.37403"
+       class="id_R_(1964) id_AI_(1968)"
+       stroke-opacity="0.74902"
+       stroke="#8d873a"
+       id="path346" />
+    <path
+       fill="none"
+       stroke-width="1.77"
+       d="m 168.23665,-260.12814 60.76916,-48.00727"
+       class="id_R_(1964) id_R_(1968)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path348" />
+    <path
+       fill="none"
+       stroke-width="2.58"
+       d="m 220.41138,-266.50217 53.0238,-65.82748"
+       class="id_AI_(1968) id_R_(1972)"
+       stroke-opacity="0.74902"
+       stroke="#8d873a"
+       id="path350" />
+    <path
+       fill="none"
+       stroke-width="1.77"
+       d="m 230.96411,-359.69037 7.43001,-51.71612"
+       class="id_D_(1968) id_D_(1972)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path352" />
+    <path
+       fill="none"
+       stroke-width="4.47"
+       d="m 230.96411,-359.69037 42.47107,27.36072"
+       class="id_D_(1968) id_R_(1972)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path354" />
+    <path
+       fill="none"
+       stroke-width="9.87"
+       d="m 229.00581,-308.13541 44.42937,-24.19424"
+       class="id_R_(1968) id_R_(1972)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path356" />
+    <path
+       fill="none"
+       stroke-width="7.17"
+       d="m 273.43518,-332.32965 20.60721,-48.41367"
+       class="id_R_(1972) id_D_(1976)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path358" />
+    <path
+       fill="none"
+       stroke-width="8.52"
+       d="m 273.43518,-332.32965 50.15231,6.32837"
+       class="id_R_(1972) id_R_(1976)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path360" />
+    <path
+       fill="none"
+       stroke-width="1.77"
+       d="m 238.39412,-411.40649 55.64827,30.66317"
+       class="id_D_(1972) id_D_(1976)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path362" />
+    <path
+       fill="none"
+       stroke-width="3.12"
+       d="m 294.04239,-380.74332 24.29077,-43.84469"
+       class="id_D_(1976) id_D_(1980)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path364" />
+    <path
+       fill="none"
+       stroke-width="5.82"
+       d="m 294.04239,-380.74332 49.82284,12.9824"
+       class="id_D_(1976) id_R_(1980)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path366" />
+    <path
+       fill="none"
+       stroke-width="8.52"
+       d="m 323.58749,-326.00128 20.27774,-41.75964"
+       class="id_R_(1976) id_R_(1980)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path368" />
+    <path
+       fill="none"
+       stroke-width="1.77"
+       d="m 318.33316,-424.58801 17.31372,-52.00263"
+       class="id_D_(1980) id_D_(1984)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path370" />
+    <path
+       fill="none"
+       stroke-width="2.58"
+       d="m 318.33316,-424.58801 56.66241,13.16891"
+       class="id_D_(1980) id_R_(1984)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path372" />
+    <path
+       fill="none"
+       stroke-width="13.11"
+       d="m 343.86523,-367.76092 31.13034,-43.65818"
+       class="id_R_(1980) id_R_(1984)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path374" />
+    <path
+       fill="none"
+       stroke-width="1.77"
+       d="m 335.64688,-476.59064 67.48138,28.92383"
+       class="id_D_(1984) id_D_(1988)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path376" />
+    <path
+       fill="none"
+       stroke-width="3.66"
+       d="m 374.99557,-411.4191 28.13269,-36.24771"
+       class="id_R_(1984) id_D_(1988)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path378" />
+    <path
+       fill="none"
+       stroke-width="12.03"
+       d="m 374.99557,-411.4191 53.18485,-0.44238"
+       class="id_R_(1984) id_R_(1988)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path380" />
+    <path
+       fill="none"
+       stroke-width="4.2"
+       d="m 403.12826,-447.66681 16.81022,83.03873"
+       class="id_D_(1988) id_D_(1992)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path382" />
+    <path
+       fill="none"
+       stroke-width="7.17"
+       d="m 428.18042,-411.86148 -8.24194,47.2334"
+       class="id_R_(1988) id_D_(1992)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path384" />
+    <path
+       fill="none"
+       stroke-width="6.09"
+       d="m 428.18042,-411.86148 38.79141,24.51996"
+       class="id_R_(1988) id_R_(1992)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path386" />
+    <path
+       fill="none"
+       stroke-width="9.33"
+       d="m 419.93848,-364.62808 14.00418,45.04361"
+       class="id_D_(1992) id_D_(1996)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path388" />
+    <path
+       fill="none"
+       stroke-width="2.04"
+       d="m 419.93848,-364.62808 61.34912,14.5209"
+       class="id_D_(1992) id_R_(1996)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path390" />
+    <path
+       fill="none"
+       stroke-width="1.77"
+       d="m 466.97183,-387.34152 -33.02917,67.75705"
+       class="id_R_(1992) id_D_(1996)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path392" />
+    <path
+       fill="none"
+       stroke-width="5.55"
+       d="m 466.97183,-387.34152 14.31577,37.23434"
+       class="id_R_(1992) id_R_(1996)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path394" />
+    <path
+       fill="none"
+       stroke-width="6.9"
+       d="m 433.94266,-319.58447 -4.34043,44.26275"
+       class="id_D_(1996) id_D_(2000)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path396" />
+    <path
+       fill="none"
+       stroke-width="4.2"
+       d="m 433.94266,-319.58447 49.79947,13.75415"
+       class="id_D_(1996) id_R_(2000)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path398" />
+    <path
+       fill="none"
+       stroke-width="6.36"
+       d="m 481.2876,-350.10718 2.45453,44.27686"
+       class="id_R_(1996) id_R_(2000)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path400" />
+    <path
+       fill="none"
+       stroke-width="6.36"
+       d="m 429.60223,-275.32172 5.97107,39.34821"
+       class="id_D_(2000) id_D_(2004)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path402" />
+    <path
+       fill="none"
+       stroke-width="1.77"
+       d="m 429.60223,-275.32172 63.13898,14.92008"
+       class="id_D_(2000) id_R_(2004)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path404" />
+    <path
+       fill="none"
+       stroke-width="1.5"
+       d="m 483.74213,-305.83032 -48.16883,69.85681"
+       class="id_R_(2000) id_D_(2004)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path406" />
+    <path
+       fill="none"
+       stroke-width="9.06"
+       d="m 483.74213,-305.83032 8.99908,45.42868"
+       class="id_R_(2000) id_R_(2004)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path408" />
+    <path
+       fill="none"
+       stroke-width="6.63"
+       d="m 435.5733,-235.97351 32.93525,27.3176"
+       class="id_D_(2004) id_D_(2008)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path410" />
+    <path
+       fill="none"
+       stroke-width="3.66"
+       d="m 492.74121,-260.40164 -24.23266,51.74573"
+       class="id_R_(2004) id_D_(2008)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path412" />
+    <path
+       fill="none"
+       stroke-width="7.17"
+       d="m 492.74121,-260.40164 33.76605,25.89029"
+       class="id_R_(2004) id_R_(2008)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path414" />
+    <path
+       fill="none"
+       stroke-width="8.52"
+       d="m 468.50855,-208.65591 5.17947,43.11488"
+       class="id_D_(2008) id_D_(2012)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path416" />
+    <path
+       fill="none"
+       stroke-width="1.77"
+       d="m 468.50855,-208.65591 64.16863,13.25874"
+       class="id_D_(2008) id_R_(2012)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path418" />
+    <path
+       fill="none"
+       stroke-width="7.17"
+       d="m 526.50726,-234.51135 6.16992,39.11418"
+       class="id_R_(2008) id_R_(2012)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path420" />
+    <path
+       fill="none"
+       stroke-width="6.9"
+       d="m 473.68802,-165.54103 -7.92389,39.82576"
+       class="id_D_(2012) id_D_(2016)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path422" />
+    <path
+       fill="none"
+       stroke-width="2.85"
+       d="m 473.68802,-165.54103 49.87595,9.13176"
+       class="id_D_(2012) id_R_(2016)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path424" />
+    <path
+       fill="none"
+       stroke-width="7.71"
+       d="m 532.67718,-195.39717 -9.11321,38.9879"
+       class="id_R_(2012) id_R_(2016)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path426" />
+    <path
+       fill="none"
+       stroke-width="7.13143"
+       d="m 465.76413,-125.71527 33.38718,19.15177"
+       class="id_D_(2016) id_D_(2020)"
+       stroke-opacity="0.74902"
+       stroke="#66d1ff"
+       id="path428" />
+    <path
+       fill="none"
+       stroke-width="2.35408"
+       d="m 523.56397,-156.40927 -24.41266,49.84577"
+       class="id_R_(2016) id_D_(2020)"
+       stroke-opacity="0.74902"
+       stroke="#b29eb9"
+       id="path430" />
+    <path
+       fill="none"
+       stroke-width="7.97449"
+       d="m 523.56397,-156.40927 49.40423,13.42429"
+       class="id_R_(2016) id_R_(2020)"
+       stroke-opacity="0.74902"
+       stroke="#ff6b74"
+       id="path432" />
+  </g>
+  <g
+     id="nodes"
+     transform="translate(25.462674,11.260911)">
+    <circle
+       fill-opacity="1"
+       fill="#873536"
+       r="12.8125"
+       cx="-247.0592"
+       class="id_GW_(1789)"
+       cy="74.177094"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle435" />
+    <circle
+       fill-opacity="1"
+       fill="#873536"
+       r="14.375"
+       cx="-228.35664"
+       class="id_GW_(1792)"
+       cy="97.520653"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle437" />
+    <circle
+       fill-opacity="1"
+       fill="#758bff"
+       r="11.875"
+       cx="-228.97507"
+       class="id_DR_(1796)"
+       cy="131.69887"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle439" />
+    <circle
+       fill-opacity="1"
+       fill="#14ff80"
+       r="12.5"
+       cx="-193.95157"
+       class="id_F_(1796)"
+       cy="110.95882"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle441" />
+    <circle
+       fill-opacity="1"
+       fill="#758bff"
+       r="12.1875"
+       cx="-209.18794"
+       class="id_DR_(1800)"
+       cy="149.40536"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle443" />
+    <circle
+       fill-opacity="1"
+       fill="#14ff80"
+       r="11.875"
+       cx="-172.41739"
+       class="id_F_(1800)"
+       cy="126.96797"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle445" />
+    <circle
+       fill-opacity="1"
+       fill="#acc5bb"
+       r="10"
+       cx="-154.45718"
+       class="id_SP_(1800)"
+       cy="96.523262"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle447" />
+    <circle
+       fill-opacity="1"
+       fill="#758bff"
+       r="14.375"
+       cx="-177.46844"
+       class="id_DR_(1804)"
+       cy="162.91618"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle449" />
+    <circle
+       fill-opacity="1"
+       fill="#14ff80"
+       r="10.3125"
+       cx="-129.50156"
+       class="id_F_(1804)"
+       cy="140.38124"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle451" />
+    <circle
+       fill-opacity="1"
+       fill="#758bff"
+       r="13.4375"
+       cx="-168.41301"
+       class="id_DR_(1808)"
+       cy="194.13837"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle453" />
+    <circle
+       fill-opacity="1"
+       fill="#14ff80"
+       r="11.25"
+       cx="-125.93459"
+       class="id_F_(1808)"
+       cy="176.6501"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle455" />
+    <circle
+       fill-opacity="1"
+       fill="#758bff"
+       r="13.125"
+       cx="-151.05052"
+       class="id_DR_(1812)"
+       cy="228.22696"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle457" />
+    <circle
+       fill-opacity="1"
+       fill="#14ff80"
+       r="11.875"
+       cx="-114.96681"
+       class="id_F_(1812)"
+       cy="207.67827"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle459" />
+    <circle
+       fill-opacity="1"
+       fill="#758bff"
+       r="14.6875"
+       cx="-122.90179"
+       class="id_DR_(1816)"
+       cy="241.66368"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle461" />
+    <circle
+       fill-opacity="1"
+       fill="#14ff80"
+       r="10.625"
+       cx="-89.450211"
+       class="id_F_(1816)"
+       cy="221.4996"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle463" />
+    <circle
+       fill-opacity="1"
+       fill="#758bff"
+       r="17.1875"
+       cx="-95.707588"
+       class="id_DR_(1820)"
+       cy="263.89285"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle465" />
+    <circle
+       fill-opacity="1"
+       fill="#758bff"
+       r="17.1875"
+       cx="-62.717991"
+       class="id_DR_(1824)"
+       cy="282.3822"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle467" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="14.375"
+       cx="-31.393232"
+       class="id_D_(1828)"
+       cy="297.4743"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle469" />
+    <circle
+       fill-opacity="1"
+       fill="#fc70ff"
+       r="12.5"
+       cx="-34.261883"
+       class="id_NR_(1828)"
+       cy="251.16789"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle471" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="14.6875"
+       cx="9.9747963"
+       class="id_D_(1832)"
+       cy="310.8894"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle473" />
+    <circle
+       fill-opacity="1"
+       fill="#605400"
+       r="10"
+       cx="20.135826"
+       class="id_N_(1832)"
+       cy="236.61661"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle475" />
+    <circle
+       fill-opacity="1"
+       fill="#fc70ff"
+       r="11.5625"
+       cx="-0.56939673"
+       class="id_NR_(1832)"
+       cy="264.83203"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle477" />
+    <circle
+       fill-opacity="1"
+       fill="#ff5777"
+       r="10"
+       cx="-11.759307"
+       class="id_AM_(1832)"
+       cy="223.10333"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle479" />
+    <circle
+       fill-opacity="1"
+       fill="#f0c200"
+       r="13.125"
+       cx="45.017727"
+       class="id_W_(1836)"
+       cy="278.29575"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle481" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="14.375"
+       cx="57.024712"
+       class="id_D_(1836)"
+       cy="324.4415"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle483" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="11.875"
+       cx="107.05332"
+       class="id_D_(1840)"
+       cy="336.07941"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle485" />
+    <circle
+       fill-opacity="1"
+       fill="#f0c200"
+       r="15.625"
+       cx="84.05323"
+       class="id_W_(1840)"
+       cy="291.87405"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle487" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="14.375"
+       cx="136.15523"
+       class="id_D_(1844)"
+       cy="304.07645"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle489" />
+    <circle
+       fill-opacity="1"
+       fill="#f0c200"
+       r="13.125"
+       cx="97.053734"
+       class="id_W_(1844)"
+       cy="255.96008"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle491" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="14.375"
+       cx="154.72607"
+       class="id_D_(1848)"
+       cy="266.97421"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle493" />
+    <circle
+       fill-opacity="1"
+       fill="#f0c200"
+       r="14.375"
+       cx="126.09692"
+       class="id_W_(1848)"
+       cy="238.56909"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle495" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="18.125"
+       cx="169.33578"
+       class="id_D_(1852)"
+       cy="225.12831"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle497" />
+    <circle
+       fill-opacity="1"
+       fill="#f0c200"
+       r="10.9375"
+       cx="126.26187"
+       class="id_W_(1852)"
+       cy="198.29294"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle499" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="15.625"
+       cx="197.64432"
+       class="id_D_(1856)"
+       cy="192.24037"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle501" />
+    <circle
+       fill-opacity="1"
+       fill="#fb9f59"
+       r="10"
+       cx="229.55273"
+       class="id_KN_(1856)"
+       cy="247.53482"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle503" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="13.125"
+       cx="154.88425"
+       class="id_R_(1856)"
+       cy="178.49834"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle505" />
+    <circle
+       fill-opacity="1"
+       fill="#87ba4f"
+       r="10.625"
+       cx="221.35342"
+       class="id_CU_(1860)"
+       cy="133.05899"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle507" />
+    <circle
+       fill-opacity="1"
+       fill="#3397ff"
+       r="10"
+       cx="126.26924"
+       class="id_ND_(1860)"
+       cy="134.13098"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle509" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="15.3125"
+       cx="174.94565"
+       class="id_R_(1860)"
+       cy="147.8988"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle511" />
+    <circle
+       fill-opacity="1"
+       fill="#00ccc3"
+       r="13.125"
+       cx="229.53827"
+       class="id_SD_(1860)"
+       cy="169.63042"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle513" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="10.625"
+       cx="219.05423"
+       class="id_D_(1864)"
+       cy="91.169434"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle515" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="17.1875"
+       cx="171.09106"
+       class="id_R_(1864)"
+       cy="105.84168"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle517" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="12.1875"
+       cx="173.08403"
+       class="id_D_(1868)"
+       cy="53.436661"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle519" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="17.8125"
+       cx="139.90471"
+       class="id_R_(1868)"
+       cy="83.24958"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle521" />
+    <circle
+       fill-opacity="1"
+       fill="#704982"
+       r="11.5625"
+       cx="150.21544"
+       class="id_LR_(1872)"
+       cy="16.732042"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle523" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="19.375"
+       cx="119.96487"
+       class="id_R_(1872)"
+       cy="47.502388"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle525" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="15"
+       cx="103.60757"
+       class="id_D_(1876)"
+       cy="3.2342334"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle527" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="16.25"
+       cx="70.456215"
+       class="id_R_(1876)"
+       cy="34.01424"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle529" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="15.625"
+       cx="63.940269"
+       class="id_D_(1880)"
+       cy="-10.303591"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle531" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="15.625"
+       cx="38.797596"
+       class="id_R_(1880)"
+       cy="18.898148"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle533" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="15.9375"
+       cx="22.343266"
+       class="id_D_(1884)"
+       cy="-24.008738"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle535" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="15.3125"
+       cx="-3.1264455"
+       class="id_R_(1884)"
+       cy="38.116894"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle537" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="15.3125"
+       cx="5.7737398"
+       class="id_D_(1888)"
+       cy="-54.18372"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle539" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="15.9375"
+       cx="-14.350049"
+       class="id_R_(1888)"
+       cy="5.5548358"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle541" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="16.875"
+       cx="-36.715027"
+       class="id_D_(1892)"
+       cy="-37.752628"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle543" />
+    <circle
+       fill-opacity="1"
+       fill="#00e5ff"
+       r="10.9375"
+       cx="-61.015949"
+       class="id_PO_(1892)"
+       cy="23.575573"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle545" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="14.6875"
+       cx="-56.201515"
+       class="id_R_(1892)"
+       cy="-7.8573084"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle547" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="16.5625"
+       cx="-103.71383"
+       class="id_D_(1896)"
+       cy="-21.550241"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle549" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="16.875"
+       cx="-70.386032"
+       class="id_R_(1896)"
+       cy="-53.484737"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle551" />
+    <circle
+       fill-opacity="1"
+       fill="#acc5bb"
+       r="10"
+       cx="0.35992238"
+       class="id_SP_(1892)"
+       cy="-88.849594"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle553" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="15"
+       cx="-153.56673"
+       class="id_D_(1900)"
+       cy="-30.136211"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle555" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="18.4375"
+       cx="-118.77943"
+       class="id_R_(1900)"
+       cy="-67.047699"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle557" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="13.75"
+       cx="-194.98439"
+       class="id_D_(1904)"
+       cy="-43.65554"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle559" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="19.6875"
+       cx="-166.11192"
+       class="id_R_(1904)"
+       cy="-80.65461"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle561" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="15"
+       cx="-216.28018"
+       class="id_D_(1908)"
+       cy="-74.5299"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle563" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="18.75"
+       cx="-178.08257"
+       class="id_R_(1908)"
+       cy="-121.2767"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle565" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="22.1875"
+       cx="-227.96155"
+       class="id_D_(1912)"
+       cy="-126.93662"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle567" />
+    <circle
+       fill-opacity="1"
+       fill="#0075a0"
+       r="11.5625"
+       cx="-183.72681"
+       class="id_BM_(1912)"
+       cy="-160.05743"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle569" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="10.3125"
+       cx="-137.34851"
+       class="id_R_(1912)"
+       cy="-146.41287"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle571" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="19.0625"
+       cx="-219.48428"
+       class="id_D_(1916)"
+       cy="-174.95212"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle573" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="15.3125"
+       cx="-262.06796"
+       class="id_R_(1916)"
+       cy="-159.85034"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle575" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="13.125"
+       cx="-194.45647"
+       class="id_D_(1920)"
+       cy="-210.60077"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle577" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="21.25"
+       cx="-258.00488"
+       class="id_R_(1920)"
+       cy="-208.92009"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle579" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="13.4375"
+       cx="-197.4722"
+       class="id_D_(1924)"
+       cy="-246.95833"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle581" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="20.625"
+       cx="-247.68721"
+       class="id_R_(1924)"
+       cy="-257.60892"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle583" />
+    <circle
+       fill-opacity="1"
+       fill="#e4ff8a"
+       r="10"
+       cx="-320.09055"
+       class="id_PR_(1924)"
+       cy="-205.12511"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle585" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="12.1875"
+       cx="-176.00462"
+       class="id_D_(1928)"
+       cy="-275.20578"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle587" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="22.1875"
+       cx="-216.28194"
+       class="id_R_(1928)"
+       cy="-297.1843"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle589" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="22.8125"
+       cx="-172.43555"
+       class="id_D_(1932)"
+       cy="-324.61377"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle591" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="11.5625"
+       cx="-141.32941"
+       class="id_R_(1932)"
+       cy="-288.74091"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle593" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="24.0625"
+       cx="-121.27194"
+       class="id_D_(1936)"
+       cy="-336.04227"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle595" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="10.3125"
+       cx="-103.24261"
+       class="id_R_(1936)"
+       cy="-260.65588"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle597" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="21.5625"
+       cx="-75.89856"
+       class="id_D_(1940)"
+       cy="-357.58868"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle599" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="12.8125"
+       cx="-76.258713"
+       class="id_R_(1940)"
+       cy="-304.28482"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle601" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="20.9375"
+       cx="-25.699593"
+       class="id_D_(1944)"
+       cy="-363.7373"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle603" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="13.4375"
+       cx="-32.885704"
+       class="id_R_(1944)"
+       cy="-317.76431"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle605" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="18.4375"
+       cx="14.573316"
+       class="id_D_(1948)"
+       cy="-336.62079"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle607" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="14.6875"
+       cx="14.929086"
+       class="id_R_(1948)"
+       cy="-380.61496"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle609" />
+    <circle
+       fill-opacity="1"
+       fill="#4cefff"
+       r="10.9375"
+       cx="0.40286931"
+       class="id_SR_(1948)"
+       cy="-290.5437"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle611" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="12.5"
+       cx="54.866337"
+       class="id_D_(1952)"
+       cy="-302.33356"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle613" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="21.875"
+       cx="55.96759"
+       class="id_R_(1952)"
+       cy="-361.9632"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle615" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="11.875"
+       cx="92.11451"
+       class="id_D_(1956)"
+       cy="-283.4498"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle617" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="22.5"
+       cx="106.03875"
+       class="id_R_(1956)"
+       cy="-351.24118"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle619" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="16.5625"
+       cx="140.36198"
+       class="id_D_(1960)"
+       cy="-315.66818"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle621" />
+    <circle
+       fill-opacity="1"
+       fill="#0bd600"
+       r="10.3125"
+       cx="112.96264"
+       class="id_I_(1960)"
+       cy="-235.18076"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle623" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="17.8125"
+       cx="150.07523"
+       class="id_R_(1960)"
+       cy="-367.43924"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle625" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="23.75"
+       cx="187.60161"
+       class="id_D_(1964)"
+       cy="-336.27115"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle627" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="11.5625"
+       cx="168.23665"
+       class="id_R_(1964)"
+       cy="-260.12814"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle629" />
+    <circle
+       fill-opacity="1"
+       fill="#1ca300"
+       r="11.25"
+       cx="220.41138"
+       class="id_AI_(1968)"
+       cy="-266.50217"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle631" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="14.0625"
+       cx="230.96411"
+       class="id_D_(1968)"
+       cy="-359.69037"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle633" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="19.6875"
+       cx="229.00581"
+       class="id_R_(1968)"
+       cy="-308.13541"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle635" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="25"
+       cx="273.43518"
+       class="id_R_(1972)"
+       cy="-332.32965"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle637" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="10.3125"
+       cx="238.39412"
+       class="id_D_(1972)"
+       cy="-411.40649"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle639" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="17.1875"
+       cx="294.04239"
+       class="id_D_(1976)"
+       cy="-380.74332"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle641" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="18.125"
+       cx="323.58749"
+       class="id_R_(1976)"
+       cy="-326.00128"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle643" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="11.875"
+       cx="318.33316"
+       class="id_D_(1980)"
+       cy="-424.58801"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle645" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="23.4375"
+       cx="343.86523"
+       class="id_R_(1980)"
+       cy="-367.76093"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle647" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="10.3125"
+       cx="335.64688"
+       class="id_D_(1984)"
+       cy="-476.59064"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle649" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="25"
+       cx="374.99557"
+       class="id_R_(1984)"
+       cy="-411.4191"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle651" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="13.125"
+       cx="403.12827"
+       class="id_D_(1988)"
+       cy="-447.66681"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle653" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="22.1875"
+       cx="428.18042"
+       class="id_R_(1988)"
+       cy="-411.86148"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle655" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="20"
+       cx="419.93848"
+       class="id_D_(1992)"
+       cy="-364.62808"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle657" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="15.3125"
+       cx="466.97183"
+       class="id_R_(1992)"
+       cy="-387.34152"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle659" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="19.6875"
+       cx="433.94266"
+       class="id_D_(1996)"
+       cy="-319.58447"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle661" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="15.625"
+       cx="481.2876"
+       class="id_R_(1996)"
+       cy="-350.10718"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle663" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="16.25"
+       cx="429.60223"
+       class="id_D_(2000)"
+       cy="-275.32172"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle665" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="19.0625"
+       cx="483.74213"
+       class="id_R_(2000)"
+       cy="-305.83032"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle667" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="15.9375"
+       cx="435.5733"
+       class="id_D_(2004)"
+       cy="-235.97351"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle669" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="19.375"
+       cx="492.74121"
+       class="id_R_(2004)"
+       cy="-260.40164"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle671" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="18.75"
+       cx="468.50854"
+       class="id_D_(2008)"
+       cy="-208.65591"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle673" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="16.5625"
+       cx="526.50726"
+       class="id_R_(2008)"
+       cy="-234.51135"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle675" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="18.125"
+       cx="473.68802"
+       class="id_D_(2012)"
+       cy="-165.54103"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle677" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="17.1875"
+       cx="532.67719"
+       class="id_R_(2012)"
+       cy="-195.39717"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle679" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="16.25"
+       cx="465.76413"
+       class="id_D_(2016)"
+       cy="-125.71527"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle681" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="19.0625"
+       cx="523.56396"
+       class="id_R_(2016)"
+       cy="-156.40927"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle683" />
+    <circle
+       fill-opacity="1"
+       fill="#66d1ff"
+       r="17.5"
+       cx="499.15131"
+       class="id_D_(2020)"
+       cy="-106.5635"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle685" />
+    <circle
+       fill-opacity="1"
+       fill="#ff6b74"
+       r="17.1875"
+       cx="572.9682"
+       class="id_R_(2020)"
+       cy="-142.98499"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       id="circle687" />
+  </g>
+  <g
+     id="node-labels"
+     transform="translate(25.462674,11.260911)">
+    <text
+       font-size="10px"
+       x="-247.0592"
+       y="76.524094"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_GW_(1789)"
+       id="text690">GW (1789)</text>
+    <text
+       font-size="10px"
+       x="-228.35664"
+       y="99.867661"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_GW_(1792)"
+       id="text692">GW (1792)</text>
+    <text
+       font-size="10px"
+       x="-228.97507"
+       y="134.04587"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_DR_(1796)"
+       id="text694">DR (1796)</text>
+    <text
+       font-size="10px"
+       x="-193.95157"
+       y="113.30582"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_F_(1796)"
+       id="text696">F (1796)</text>
+    <text
+       font-size="10px"
+       x="-209.18794"
+       y="151.75238"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_DR_(1800)"
+       id="text698">DR (1800)</text>
+    <text
+       font-size="10px"
+       x="-172.41739"
+       y="129.31497"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_F_(1800)"
+       id="text700">F (1800)</text>
+    <text
+       font-size="10px"
+       x="-154.45718"
+       y="98.87027"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_SP_(1800)"
+       id="text702">SP (1800)</text>
+    <text
+       font-size="10px"
+       x="-177.46844"
+       y="165.26318"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_DR_(1804)"
+       id="text704">DR (1804)</text>
+    <text
+       font-size="10px"
+       x="-129.50156"
+       y="142.72824"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_F_(1804)"
+       id="text706">F (1804)</text>
+    <text
+       font-size="10px"
+       x="-168.41301"
+       y="196.48538"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_DR_(1808)"
+       id="text708">DR (1808)</text>
+    <text
+       font-size="10px"
+       x="-125.93459"
+       y="178.9971"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_F_(1808)"
+       id="text710">F (1808)</text>
+    <text
+       font-size="10px"
+       x="-151.05052"
+       y="230.57397"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_DR_(1812)"
+       id="text712">DR (1812)</text>
+    <text
+       font-size="10px"
+       x="-114.96681"
+       y="210.02527"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_F_(1812)"
+       id="text714">F (1812)</text>
+    <text
+       font-size="10px"
+       x="-122.90179"
+       y="244.01068"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_DR_(1816)"
+       id="text716">DR (1816)</text>
+    <text
+       font-size="10px"
+       x="-89.450211"
+       y="223.84662"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_F_(1816)"
+       id="text718">F (1816)</text>
+    <text
+       font-size="10px"
+       x="-95.707588"
+       y="266.23987"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_DR_(1820)"
+       id="text720">DR (1820)</text>
+    <text
+       font-size="10px"
+       x="-62.717991"
+       y="284.72919"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_DR_(1824)"
+       id="text722">DR (1824)</text>
+    <text
+       font-size="10px"
+       x="-31.393232"
+       y="299.82129"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1828)"
+       id="text724">D (1828)</text>
+    <text
+       font-size="10px"
+       x="-34.261883"
+       y="253.51489"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_NR_(1828)"
+       id="text726">NR (1828)</text>
+    <text
+       font-size="10px"
+       x="9.9747963"
+       y="313.23639"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1832)"
+       id="text728">D (1832)</text>
+    <text
+       font-size="10px"
+       x="20.135826"
+       y="238.96362"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_N_(1832)"
+       id="text730">N (1832)</text>
+    <text
+       font-size="10px"
+       x="-0.56939673"
+       y="267.17902"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_NR_(1832)"
+       id="text732">NR (1832)</text>
+    <text
+       font-size="10px"
+       x="-11.759307"
+       y="225.45035"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_AM_(1832)"
+       id="text734">AM (1832)</text>
+    <text
+       font-size="10px"
+       x="45.017727"
+       y="280.64276"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_W_(1836)"
+       id="text736">W (1836)</text>
+    <text
+       font-size="10px"
+       x="57.024712"
+       y="326.78851"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1836)"
+       id="text738">D (1836)</text>
+    <text
+       font-size="10px"
+       x="107.05332"
+       y="338.42639"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1840)"
+       id="text740">D (1840)</text>
+    <text
+       font-size="10px"
+       x="84.05323"
+       y="294.22107"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_W_(1840)"
+       id="text742">W (1840)</text>
+    <text
+       font-size="10px"
+       x="136.15523"
+       y="306.42346"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1844)"
+       id="text744">D (1844)</text>
+    <text
+       font-size="10px"
+       x="97.053734"
+       y="258.3071"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_W_(1844)"
+       id="text746">W (1844)</text>
+    <text
+       font-size="10px"
+       x="154.72607"
+       y="269.32123"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1848)"
+       id="text748">D (1848)</text>
+    <text
+       font-size="10px"
+       x="126.09692"
+       y="240.91611"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_W_(1848)"
+       id="text750">W (1848)</text>
+    <text
+       font-size="10px"
+       x="169.33578"
+       y="227.47531"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1852)"
+       id="text752">D (1852)</text>
+    <text
+       font-size="10px"
+       x="126.26187"
+       y="200.63995"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_W_(1852)"
+       id="text754">W (1852)</text>
+    <text
+       font-size="10px"
+       x="197.64432"
+       y="194.58737"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1856)"
+       id="text756">D (1856)</text>
+    <text
+       font-size="10px"
+       x="229.55273"
+       y="249.88184"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_KN_(1856)"
+       id="text758">KN (1856)</text>
+    <text
+       font-size="10px"
+       x="154.88425"
+       y="180.84534"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1856)"
+       id="text760">R (1856)</text>
+    <text
+       font-size="10px"
+       x="221.35342"
+       y="135.40599"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_CU_(1860)"
+       id="text762">CU (1860)</text>
+    <text
+       font-size="10px"
+       x="126.26924"
+       y="136.47798"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_ND_(1860)"
+       id="text764">ND (1860)</text>
+    <text
+       font-size="10px"
+       x="174.94565"
+       y="150.24582"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1860)"
+       id="text766">R (1860)</text>
+    <text
+       font-size="10px"
+       x="229.53827"
+       y="171.97742"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_SD_(1860)"
+       id="text768">SD (1860)</text>
+    <text
+       font-size="10px"
+       x="219.05423"
+       y="93.516434"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1864)"
+       id="text770">D (1864)</text>
+    <text
+       font-size="10px"
+       x="171.09106"
+       y="108.18869"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1864)"
+       id="text772">R (1864)</text>
+    <text
+       font-size="10px"
+       x="173.08403"
+       y="55.783669"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1868)"
+       id="text774">D (1868)</text>
+    <text
+       font-size="10px"
+       x="139.90471"
+       y="85.596588"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1868)"
+       id="text776">R (1868)</text>
+    <text
+       font-size="10px"
+       x="150.21544"
+       y="19.079048"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_LR_(1872)"
+       id="text778">LR (1872)</text>
+    <text
+       font-size="10px"
+       x="119.96487"
+       y="49.849396"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1872)"
+       id="text780">R (1872)</text>
+    <text
+       font-size="10px"
+       x="103.60757"
+       y="5.5812387"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1876)"
+       id="text782">D (1876)</text>
+    <text
+       font-size="10px"
+       x="70.456215"
+       y="36.361244"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1876)"
+       id="text784">R (1876)</text>
+    <text
+       font-size="10px"
+       x="63.940269"
+       y="-7.9565859"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1880)"
+       id="text786">D (1880)</text>
+    <text
+       font-size="10px"
+       x="38.797596"
+       y="21.245153"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1880)"
+       id="text788">R (1880)</text>
+    <text
+       font-size="10px"
+       x="22.343266"
+       y="-21.661732"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1884)"
+       id="text790">D (1884)</text>
+    <text
+       font-size="10px"
+       x="-3.1264455"
+       y="40.463898"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1884)"
+       id="text792">R (1884)</text>
+    <text
+       font-size="10px"
+       x="5.7737398"
+       y="-51.836716"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1888)"
+       id="text794">D (1888)</text>
+    <text
+       font-size="10px"
+       x="-14.350049"
+       y="7.9018412"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1888)"
+       id="text796">R (1888)</text>
+    <text
+       font-size="10px"
+       x="-36.715027"
+       y="-35.405624"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1892)"
+       id="text798">D (1892)</text>
+    <text
+       font-size="10px"
+       x="-61.015949"
+       y="25.923391"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_PO_(1892)"
+       id="text800">PO (1892)</text>
+    <text
+       font-size="10px"
+       x="-56.201515"
+       y="-5.510303"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1892)"
+       id="text802">R (1892)</text>
+    <text
+       font-size="10px"
+       x="-103.71383"
+       y="-19.203236"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1896)"
+       id="text804">D (1896)</text>
+    <text
+       font-size="10px"
+       x="-70.386032"
+       y="-51.137733"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1896)"
+       id="text806">R (1896)</text>
+    <text
+       font-size="10px"
+       x="0.35992238"
+       y="-86.502594"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_SP_(1892)"
+       id="text808">SP (1892)</text>
+    <text
+       font-size="10px"
+       x="-153.56673"
+       y="-27.789206"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1900)"
+       id="text810">D (1900)</text>
+    <text
+       font-size="10px"
+       x="-118.77943"
+       y="-64.700699"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1900)"
+       id="text812">R (1900)</text>
+    <text
+       font-size="10px"
+       x="-194.98439"
+       y="-41.308533"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1904)"
+       id="text814">D (1904)</text>
+    <text
+       font-size="10px"
+       x="-166.11192"
+       y="-78.307602"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1904)"
+       id="text816">R (1904)</text>
+    <text
+       font-size="10px"
+       x="-216.28018"
+       y="-72.182892"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1908)"
+       id="text818">D (1908)</text>
+    <text
+       font-size="10px"
+       x="-178.08257"
+       y="-118.92969"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1908)"
+       id="text820">R (1908)</text>
+    <text
+       font-size="10px"
+       x="-227.96155"
+       y="-124.58961"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1912)"
+       id="text822">D (1912)</text>
+    <text
+       font-size="10px"
+       x="-183.72681"
+       y="-157.71042"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_BM_(1912)"
+       id="text824">BM (1912)</text>
+    <text
+       font-size="10px"
+       x="-137.34851"
+       y="-144.06586"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1912)"
+       id="text826">R (1912)</text>
+    <text
+       font-size="10px"
+       x="-219.48428"
+       y="-172.6051"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1916)"
+       id="text828">D (1916)</text>
+    <text
+       font-size="10px"
+       x="-262.06796"
+       y="-157.50333"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1916)"
+       id="text830">R (1916)</text>
+    <text
+       font-size="10px"
+       x="-194.45647"
+       y="-208.25375"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1920)"
+       id="text832">D (1920)</text>
+    <text
+       font-size="10px"
+       x="-258.00488"
+       y="-206.57309"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1920)"
+       id="text834">R (1920)</text>
+    <text
+       font-size="10px"
+       x="-197.4722"
+       y="-244.61133"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1924)"
+       id="text836">D (1924)</text>
+    <text
+       font-size="10px"
+       x="-247.68721"
+       y="-255.26192"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1924)"
+       id="text838">R (1924)</text>
+    <text
+       font-size="10px"
+       x="-320.09055"
+       y="-202.77811"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_PR_(1924)"
+       id="text840">PR (1924)</text>
+    <text
+       font-size="10px"
+       x="-176.00462"
+       y="-272.85876"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1928)"
+       id="text842">D (1928)</text>
+    <text
+       font-size="10px"
+       x="-216.28194"
+       y="-294.83728"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1928)"
+       id="text844">R (1928)</text>
+    <text
+       font-size="10px"
+       x="-172.43555"
+       y="-322.26678"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1932)"
+       id="text846">D (1932)</text>
+    <text
+       font-size="10px"
+       x="-141.32941"
+       y="-286.39392"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1932)"
+       id="text848">R (1932)</text>
+    <text
+       font-size="10px"
+       x="-121.27194"
+       y="-333.69525"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1936)"
+       id="text850">D (1936)</text>
+    <text
+       font-size="10px"
+       x="-103.24261"
+       y="-258.3089"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1936)"
+       id="text852">R (1936)</text>
+    <text
+       font-size="10px"
+       x="-75.89856"
+       y="-355.2417"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1940)"
+       id="text854">D (1940)</text>
+    <text
+       font-size="10px"
+       x="-76.258713"
+       y="-301.93781"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1940)"
+       id="text856">R (1940)</text>
+    <text
+       font-size="10px"
+       x="-25.699593"
+       y="-361.39032"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1944)"
+       id="text858">D (1944)</text>
+    <text
+       font-size="10px"
+       x="-32.885704"
+       y="-315.4173"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1944)"
+       id="text860">R (1944)</text>
+    <text
+       font-size="10px"
+       x="14.573316"
+       y="-334.2738"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1948)"
+       id="text862">D (1948)</text>
+    <text
+       font-size="10px"
+       x="14.929086"
+       y="-378.26794"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1948)"
+       id="text864">R (1948)</text>
+    <text
+       font-size="10px"
+       x="0.40286931"
+       y="-288.19672"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_SR_(1948)"
+       id="text866">SR (1948)</text>
+    <text
+       font-size="10px"
+       x="54.866337"
+       y="-299.98657"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1952)"
+       id="text868">D (1952)</text>
+    <text
+       font-size="10px"
+       x="55.96759"
+       y="-359.61621"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1952)"
+       id="text870">R (1952)</text>
+    <text
+       font-size="10px"
+       x="92.11451"
+       y="-281.10278"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1956)"
+       id="text872">D (1956)</text>
+    <text
+       font-size="10px"
+       x="106.03875"
+       y="-348.89417"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1956)"
+       id="text874">R (1956)</text>
+    <text
+       font-size="10px"
+       x="140.36198"
+       y="-313.32117"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1960)"
+       id="text876">D (1960)</text>
+    <text
+       font-size="10px"
+       x="112.96264"
+       y="-232.83374"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_I_(1960)"
+       id="text878">I (1960)</text>
+    <text
+       font-size="10px"
+       x="150.07523"
+       y="-365.09222"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1960)"
+       id="text880">R (1960)</text>
+    <text
+       font-size="10px"
+       x="187.60161"
+       y="-333.92413"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1964)"
+       id="text882">D (1964)</text>
+    <text
+       font-size="10px"
+       x="168.23665"
+       y="-257.78113"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1964)"
+       id="text884">R (1964)</text>
+    <text
+       font-size="10px"
+       x="220.41138"
+       y="-264.15515"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_AI_(1968)"
+       id="text886">AI (1968)</text>
+    <text
+       font-size="10px"
+       x="230.96411"
+       y="-357.34338"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1968)"
+       id="text888">D (1968)</text>
+    <text
+       font-size="10px"
+       x="229.00581"
+       y="-305.78839"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1968)"
+       id="text890">R (1968)</text>
+    <text
+       font-size="10px"
+       x="273.43518"
+       y="-329.98267"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1972)"
+       id="text892">R (1972)</text>
+    <text
+       font-size="10px"
+       x="238.39412"
+       y="-409.05951"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1972)"
+       id="text894">D (1972)</text>
+    <text
+       font-size="10px"
+       x="294.04239"
+       y="-378.3963"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1976)"
+       id="text896">D (1976)</text>
+    <text
+       font-size="10px"
+       x="323.58749"
+       y="-323.6543"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1976)"
+       id="text898">R (1976)</text>
+    <text
+       font-size="10px"
+       x="318.33316"
+       y="-422.24103"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1980)"
+       id="text900">D (1980)</text>
+    <text
+       font-size="10px"
+       x="343.86523"
+       y="-365.41394"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1980)"
+       id="text902">R (1980)</text>
+    <text
+       font-size="10px"
+       x="335.64688"
+       y="-474.24365"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1984)"
+       id="text904">D (1984)</text>
+    <text
+       font-size="10px"
+       x="374.99557"
+       y="-409.07208"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1984)"
+       id="text906">R (1984)</text>
+    <text
+       font-size="10px"
+       x="403.12827"
+       y="-445.31982"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1988)"
+       id="text908">D (1988)</text>
+    <text
+       font-size="10px"
+       x="428.18042"
+       y="-409.51447"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1988)"
+       id="text910">R (1988)</text>
+    <text
+       font-size="10px"
+       x="419.93848"
+       y="-362.28107"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1992)"
+       id="text912">D (1992)</text>
+    <text
+       font-size="10px"
+       x="466.97183"
+       y="-384.99451"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1992)"
+       id="text914">R (1992)</text>
+    <text
+       font-size="10px"
+       x="433.94266"
+       y="-317.23749"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(1996)"
+       id="text916">D (1996)</text>
+    <text
+       font-size="10px"
+       x="481.2876"
+       y="-347.76019"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(1996)"
+       id="text918">R (1996)</text>
+    <text
+       font-size="10px"
+       x="429.60223"
+       y="-272.97473"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(2000)"
+       id="text920">D (2000)</text>
+    <text
+       font-size="10px"
+       x="483.74213"
+       y="-303.48334"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(2000)"
+       id="text922">R (2000)</text>
+    <text
+       font-size="10px"
+       x="435.5733"
+       y="-233.6265"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(2004)"
+       id="text924">D (2004)</text>
+    <text
+       font-size="10px"
+       x="492.74121"
+       y="-258.05463"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(2004)"
+       id="text926">R (2004)</text>
+    <text
+       font-size="10px"
+       x="468.50854"
+       y="-206.3089"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(2008)"
+       id="text928">D (2008)</text>
+    <text
+       font-size="10px"
+       x="526.50726"
+       y="-232.16434"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(2008)"
+       id="text930">R (2008)</text>
+    <text
+       font-size="10px"
+       x="473.68802"
+       y="-163.19403"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(2012)"
+       id="text932">D (2012)</text>
+    <text
+       font-size="10px"
+       x="532.67719"
+       y="-193.05017"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(2012)"
+       id="text934">R (2012)</text>
+    <text
+       font-size="10px"
+       x="465.76413"
+       y="-123.36826"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(2016)"
+       id="text936">D (2016)</text>
+    <text
+       font-size="10px"
+       x="523.56396"
+       y="-154.06226"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(2016)"
+       id="text938">R (2016)</text>
+    <text
+       font-size="10px"
+       x="499.15131"
+       y="-104.21649"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_D_(2020)"
+       id="text940">D (2020)</text>
+    <text
+       font-size="10px"
+       x="572.9682"
+       y="-140.63797"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_R_(2020)"
+       id="text942">R (2020)</text>
+  </g>
+  <text
+     xml:space="preserve"
+     id="text953"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect955);fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(26.188298,13.701811)"><tspan
+       x="315.69141"
+       y="-26.537118"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">D = Democratic
+</tspan></tspan><tspan
+       x="315.69141"
+       y="-9.2038186"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">R = Republican
+</tspan></tspan><tspan
+       x="315.69141"
+       y="8.1294811"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">DR = Democratic-Republican
+</tspan></tspan><tspan
+       x="315.69141"
+       y="25.462781"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">W = Whig
+</tspan></tspan><tspan
+       x="315.69141"
+       y="42.79608"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">F = Federalist
+</tspan></tspan><tspan
+       x="315.69141"
+       y="60.129378"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">GW = George Washington
+</tspan></tspan><tspan
+       x="315.69141"
+       y="77.462676"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">NR = National Republican
+</tspan></tspan><tspan
+       x="315.69141"
+       y="94.795974"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">SD = Southern Democrat
+</tspan></tspan><tspan
+       x="315.69141"
+       y="112.12927"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">BM = Progressive &quot;Bull Moose&quot;
+</tspan></tspan><tspan
+       x="315.69141"
+       y="129.46257"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">LR = Liberal Republican
+</tspan></tspan><tspan
+       x="315.69141"
+       y="146.79587"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">AI = American Independent
+</tspan></tspan><tspan
+       x="315.69141"
+       y="164.12917"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">SR = States' Rights
+</tspan></tspan><tspan
+       x="315.69141"
+       y="181.46247"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">PO = Populist
+</tspan></tspan><tspan
+       x="315.69141"
+       y="198.79577"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">CU = Constitutional Union
+</tspan></tspan><tspan
+       x="315.69141"
+       y="216.12907"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">I = Independent
+</tspan></tspan><tspan
+       x="315.69141"
+       y="233.46236"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">PR = Progressive
+</tspan></tspan><tspan
+       x="315.69141"
+       y="250.79566"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">ND = Northern Democrat
+</tspan></tspan><tspan
+       x="315.69141"
+       y="268.12896"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">KN = Know Nothing
+</tspan></tspan><tspan
+       x="315.69141"
+       y="285.46227"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">AM = Anti-Masonic
+</tspan></tspan><tspan
+       x="315.69141"
+       y="302.79558"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">N = Nullifier</tspan><tspan
+         style="font-size:16px;line-height:1">
+</tspan></tspan><tspan
+       x="315.69141"
+       y="329.83135"><tspan
+         style="line-height:1">
+</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1022"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect1024);fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(12.59024,10.972473)" />
+  <text
+     xml:space="preserve"
+     id="text1040"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect1042);fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(5.0733629,8.2484822)"><tspan
+       x="-319.45508"
+       y="-455.04169"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">Similarities between American political </tspan></tspan><tspan
+       x="-319.45508"
+       y="-424.71793"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">parties through presidential election cycles</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1046"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect1048);fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(-40.407218,46.298318)"><tspan
+       x="-270.50195"
+       y="317.18878"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Italic'">(C) 2020, D.Zinoviev</tspan></tspan></text>
+</svg>
