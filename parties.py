@@ -11,7 +11,11 @@ data = table.T.set_index(0).T.iloc[:,:-1].set_index("State")\
 data = data.drop('State')
 data = data.dropna(axis=1, how='all')
 data.columns = [1789] + list(range(1792, 2021, 4))
-data.drop(1824, axis=1) # No party-based elections that year
+# There was no party-based election that year
+# But you can still keep the column. 
+# REMOVE EITHER OF THESE TWO LINES
+df.loc[df[1824] != 'X', 1824] = 'DR'
+data.drop(1824, axis=1)
 
 # Calculate similarities between cycles
 parts=[]
