@@ -1,1 +1,1 @@
-# us_parties_in_election_cycles
+# Similarities between the U.S. political parties based on the presidential elections results
